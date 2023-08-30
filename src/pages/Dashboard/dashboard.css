@@ -1,0 +1,10 @@
+.dashboard{
+    display: flex;
+    .dashboardContainer{
+        flex: 6;
+    }
+
+}
+h1{
+    margin-left: 50%;
+ }
